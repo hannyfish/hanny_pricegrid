@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://codepen.io/hanny/pen/NWLJvJd](https://codepen.io/hanny/pen/NWLJvJd)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://hannyfish.github.io/hanny_pricegrid/](https://hannyfish.github.io/hanny_pricegrid/)
 
 ## My process
 
@@ -44,7 +44,7 @@ I was really tempted to do this with FLex but decided to continue practicing wit
 
 I used Flexbox to align the content within the grid files as I was worried about using padding and how it would interfere with the widths, so even though it did bloat out the HTML a bit more it did make everything far neater and better aligned. 
 
-Ended up picking the grayblue accent for the hover button colour as it was the only one that looked semi-decent!
+Ended up picking the grayblue accent for the hover button colour as it was the only one that looked semi-decent! I also got to mess with list styling for the first time, although that wasn't too much to do.
 
 ### Continued development
 
